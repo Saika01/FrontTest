@@ -80,6 +80,8 @@
 
   let hideTimer = ref('hidden')
   
+  UseCross();
+  UseConfirm();
 
 </script>
 
