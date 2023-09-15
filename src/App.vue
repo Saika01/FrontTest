@@ -70,7 +70,7 @@
   let timePassed = 0;
   let timeLeft = timeLimit;
 
-  let timerInterval;
+  let timerInterval: any;
   let timerCounter = ref('');
 
   let circleDasharray = ref('');
